@@ -1,0 +1,9 @@
+
+{
+  "name": "Sradex Learning AI Assistant",
+  "description": "A friendly, voice-enabled AI chatbot to answer your questions about Sradex Learning, its courses, and services. The chatbot uses the Gemini API with Google Search to provide helpful and up-to-date information.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
